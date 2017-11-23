@@ -1,3 +1,3 @@
 # YoloBros
 
-Important stuff. Only Ninjas may commit, never quit. 
+Important stuff. Only Ninjas may commit, too legit to quit. 
